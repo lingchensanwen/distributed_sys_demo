@@ -22,11 +22,5 @@ fusion_script.sh: line 21: 59532 Killed: 9
 numFaults: 1,size: 255.0,recoveryTime: 4.719
 fusion_script.sh: line 43: 59593 Killed: 9               
 ```
-
-```bash
-###Result for New Fusion
-numFaults: 1,size: 113,recoveryTime: 2.179
-fusion_script.sh: line 67: 59627 Killed: 9               
-```
-
+**...To get more, please run this script**
 
